@@ -34,7 +34,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ## 📬 Contact
 
 Have feedback or want to collaborate?  
-📧 [Gmail](satwikabehara99@gmail.com)
+📧 Gmail - satwikabehara99@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/satwika-behara-457578353/)  
 🐙 [GitHub](https://github.com/SatwikaBehara99)
 
