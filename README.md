@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 ## 🚀 Live Preview
 
-🔗 [View Portfolio Website](https://SatwikaBehara99.github.io/portfolio)  
+🔗 [View Portfolio Website](https://satwikabehara99.github.io/Portfolio/)  
 
 ---
 
